@@ -1,3 +1,3 @@
-$userName = Read-Host -Prompt "Please enter your name: "
+$userName = Read-Host -Prompt "Please enter your name"
 
-Write-Host "Hello, $userName! Welcome to Powershell." -ForgroundColor Green
+Write-Host "Hello, $userName! Welcome to Powershell." -ForegroundColor Green
