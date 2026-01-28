@@ -1,1 +1,1 @@
-This is a group of script ideas that i pulled off the internet for practice.
+This is a group of script ideas that I pulled off the internet for practice.

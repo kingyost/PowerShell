@@ -1,0 +1,5 @@
+cards 94.65L 
+
+min base 1.9mm
+
+insert: 486.65LxW 45.6H 

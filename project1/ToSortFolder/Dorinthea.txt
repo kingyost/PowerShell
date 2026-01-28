@@ -1,0 +1,34 @@
+budget Dorinthea
+
+Class: Warrior
+Hero: Dorinthea
+Weapons: Dawnblade
+Equipment: Blood Drop Brocade, Braveforge Bracers, Courage of Bladehold, Gallantry Gold, Ironhide Helm, Refraction Bolters
+
+(2) Biting Blade (red)
+(2) Driving Blade (red)
+(2) Hit and Run (red)
+(2) Ironsong Response (red)
+(2) Nature's Path Pilgrimage (red)
+(1) Overpower (red)
+(2) Razor Reflex (red)
+(2) Sharpen Steel (red)
+(1) Sink Below (red)
+(1) Steelblade Shunt (red)
+(2) Stroke of Foresight (red)
+(1) Warrior's Valor (red)
+(1) Dusk Path Pilgrimage (yellow)
+(1) Overpower (yellow)
+(1) Singing Steelblade (yellow)
+(2) Steelblade Shunt (yellow)
+(2) Biting Blade (blue)
+(2) Driving Blade (blue)
+(1) Ironsong Response (blue)
+(2) Nature's Path Pilgrimage (blue)
+(2) Overpower (blue)
+(1) Razor Reflex (blue)
+(1) Sharpen Steel (blue)
+(2) Stroke of Foresight (blue)
+(2) Warrior's Valor (blue)
+
+

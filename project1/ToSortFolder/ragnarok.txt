@@ -1,0 +1,86 @@
+anthony - human, wizard, Gothi, Icy Crows
+Roy	- Aasimar Protector, rune caster, Skogradmahtr, Jotunn Sons
+jim	- human, warlock, icy crow, vaeringi
+john 	- 
+
+
+Open with Anthony's character being marked with the bloody handprint.
+
+Then move to the council meeting where its discovered that all of our main characters have been marked in this way and thus are the tools marked by the gods to get everyone through the endless winter.
+
+Quests: 
+- secure food for various clans
+- take down monters in the area: giant deer, wendigo(?), berserkers gone mad
+- search for artifacts: 
+
+
+
+
+giant deer adventure
+start at the settlement of Heill Hafn. the players start in front of a councel of clan cheifs and their guards. all of the clans are here though the seat for 'leader' of the banished is empty. 
+tensions between eye and wolves, relations between eye and bears is superficial at best.
+
+give players chance to roam town, get supplys and then head out.
+
+encounter 1d6 bandits, these are the banished
+
+
+hear a child crying for help in the woods. perception 15 to find where it is coming from
+
+
+
+Leucrotta
+Large monstrosity
+ · 
+Chaotic Evil
+Armor Class: 
+14 (natural armor)
+hit Points: 
+67 (9d10 + 18)
+Speed: 
+50ft.
+Str
+18
+Dex
+14
+Con
+15
+Wis
+12
+Int
+9
+Cha
+6
+Skills: 
+Deception +2, Perception +3
+Senses: 
+darkvision 60 ft., passive perception 13
+Languages: 
+Abyssal, Gnoll
+Challenge: 
+3
+Traits 
+
+Keen Smell. The leucrotta has advantage on Wisdom (Perception) checks that rely on smell.
+
+
+Kicking Retreat. If the leucrotta attacks with its hooves, it can take the Disengage action as a bonus action.
+
+
+Mimicry. The leucrotta can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC14 Wisdom (Insight) check.
+
+
+Rampage. When the leucrotta reduces a creature to 0 hit points with a melee attack on its turn, it can take a bonus action to move up to half its speed and make an attack with its hooves.
+
+
+Actions
+
+Multiattack. The leucrotta makes two attacks: one with its bite and one with its hooves.
+
+
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage. If the leucrotta scores a critical hit, it rolls the damage dice three times, instead of twice.
+
+
+Hooves. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
+
+
