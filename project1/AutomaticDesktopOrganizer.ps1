@@ -38,24 +38,14 @@ if ($fileList.count -gt 0){
     }
   }
 
-  # $exitStatement = @"
-  # All files sorted!
-  # There were $fileList.count in $targetPath
-  # "@
-  #
-  # write-host "$exitStatement" -ForegroundColor Green
+  $exitStatement = @"
+All files sorted!
+There were $fileList.count in $targetPath
+"@
+  
+  write-host "$exitStatement" -ForegroundColor Green
 
 }
 else{
   write-host "There are no files in $targetPath" -ForegroundColor Green
 }
-
-
-# Declare to user that the task is complete
-
-$exitStatement = @"
-All files sorted!
-There were $count in $targetPath
-"@
-
-write-host "$exitStatement" -ForegroundColor Green
