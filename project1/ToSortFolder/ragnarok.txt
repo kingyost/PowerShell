@@ -1,23 +1,23 @@
-anthony - human, wizard, Gothi, Icy Crows
-Roy	- Aasimar Protector, rune caster, Skogradmahtr, Jotunn Sons
-jim	- human, warlock, icy crow, vaeringi
-john 	- 
+AA - human, wizard, Gothi, Icy Crows
+JH	- Aasimar Protector, rune caster, Skogradmahtr, Jotunn Sons
+RJ	- human, warlock, icy crow, vaeringi
+JJ 	- Human, cleric, wolf, jotunn sons
 
 
-Open with Anthony's character being marked with the bloody handprint.
+Open with AA's character being marked with the bloody handprint.
 
 Then move to the council meeting where its discovered that all of our main characters have been marked in this way and thus are the tools marked by the gods to get everyone through the endless winter.
 
-Quests: 
+Quests:
 - secure food for various clans
 - take down monters in the area: giant deer, wendigo(?), berserkers gone mad
-- search for artifacts: 
+- search for artifacts:
 
 
 
 
 giant deer adventure
-start at the settlement of Heill Hafn. the players start in front of a councel of clan cheifs and their guards. all of the clans are here though the seat for 'leader' of the banished is empty. 
+start at the settlement of Heill Hafn. the players start in front of a councel of clan cheifs and their guards. all of the clans are here though the seat for 'leader' of the banished is empty.
 tensions between eye and wolves, relations between eye and bears is superficial at best.
 
 give players chance to roam town, get supplys and then head out.
@@ -31,13 +31,13 @@ hear a child crying for help in the woods. perception 15 to find where it is com
 
 Leucrotta
 Large monstrosity
- · 
+ ·
 Chaotic Evil
-Armor Class: 
+Armor Class:
 14 (natural armor)
-hit Points: 
+hit Points:
 67 (9d10 + 18)
-Speed: 
+Speed:
 50ft.
 Str
 18
@@ -51,15 +51,15 @@ Int
 9
 Cha
 6
-Skills: 
+Skills:
 Deception +2, Perception +3
-Senses: 
+Senses:
 darkvision 60 ft., passive perception 13
-Languages: 
+Languages:
 Abyssal, Gnoll
-Challenge: 
+Challenge:
 3
-Traits 
+Traits
 
 Keen Smell. The leucrotta has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -82,5 +82,3 @@ Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) 
 
 
 Hooves. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
-
-
