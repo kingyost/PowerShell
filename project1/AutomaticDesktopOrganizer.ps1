@@ -40,7 +40,7 @@ if ($fileList.count -gt 0){
 
   $exitStatement = @"
 All files sorted!
-There were $fileList.count in $targetPath
+There were $count in $targetPath
 "@
   
   write-host "$exitStatement" -ForegroundColor Green
