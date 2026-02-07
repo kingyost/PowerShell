@@ -3,10 +3,6 @@ $targetPath = ".\ToSortFolder"
 
 # get a list of items and their file type from the ToSortFolder
 $fileList = @(Get-childitem -File -Path $targetPath)
-# $fileList = @(Get-childitem -File -Path ".\ToSortFolder")
-
-#debug
-# write-host $fileList.count
 
 #get count to report later
 #not sure what the issue is but can't get it to report at the end
@@ -42,7 +38,7 @@ if ($fileList.count -gt 0){
 All files sorted!
 There were $count in $targetPath
 "@
-  
+
   write-host "$exitStatement" -ForegroundColor Green
 
 }
