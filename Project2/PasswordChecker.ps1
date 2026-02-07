@@ -1,8 +1,5 @@
 Write-Host "Welcome to Password Checker" -ForegroundColor Green
 
-#varialbe for feedback
-$feedback = @()
-
 $reqs = @"
 Your password must contain all of the following to pass:
 14 or more characters
@@ -15,8 +12,11 @@ Your password must contain all of the following to pass:
 #while loop to hold everything
 DO{
   Write-Host "$reqs" -ForegroundColor Green
+  #varialbe for feedback
+  $feedback = @()
+
   #get password
-  $password = read-host -prompt "Enter your password:" -ForegroundColor Green
+  $password = read-host -prompt "Enter your password"
 
   #use regex for pattern match
   #check length
@@ -31,7 +31,7 @@ DO{
 
   #TODO
   #check for special character
-  if($passwrod -notmatch '[!@#$%^&*]'){
+  if($password -notmatch '[!@#$%^&*]+'){
     $feedback += "Your password must contain a special character ex: !, @, #, $, %, ^, &, or *"
   }
 
@@ -47,11 +47,11 @@ DO{
 
   if ($feedback.count -gt 0){
     foreach ($comment in $feedback){
-      Write-Host "$comment \'r'n" -ForegroundColor dark red
+      Write-Host "$comment" -ForegroundColor darkred
     }
   }
   else{
-    Write-host "Great job! Your password meets all the requirements!"
+    Write-host "Great job! Your password meets all the requirements!" -ForegroundColor Cyan
   }
 
 #contineue? 10
@@ -59,17 +59,19 @@ DO{
 #contineue? 8
 #another loop here to get proper response
   DO {
-    $continue = (Write-Host -prompt "Would you like to enter another password? [Y]es - [N]o").ToLower()
+    write-host "start of 2nd do-while. value of continue: $continue"
+    $continue = (Read-Host -prompt "Would you like to enter another password? [Y]es - [N]o").ToLower()
     if($continue -match "y" -or $continue -match "yes"){
       $continue = "yes"
     }
     elseif($continue -match "n" -or $continue -match "no"){
       Write-Host "Thank you for using password checker!"
+      $continue = "no"
     }
     else{
       Write-Host "Invlaid input. Valid inputs: Y, Yes, N, No"
     }
-  } while ($continue -match "yes" -or $continue -match "n" -or $continue -match "no")
+  } while ($continue -notmatch "yes" -and $continue -notmatch "no")
 
 } while($continue -match "yes")
 #end while loop
