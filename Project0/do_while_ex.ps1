@@ -1,3 +1,4 @@
+#do-while loop to count from 1 to 6. implementation example
 $a = 1
 
 DO {
